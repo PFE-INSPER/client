@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#news_block{
+    background-color: rgb(233, 229, 229);
+    /* margin-top: 150px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#watson{
+    /* margin-left: auto; */
+
+    margin-left: 100px;
+    
+    /* width: 50%; */
+}
+#type{
+    margin-left: 100px;
+    margin-top: 120px;
+}
+#myChart{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#Header{
+    position: absolute;
+    /* display: flex; */
+    background-color: rgb(151, 36, 142);
+    height: 60px;
+    top:0;
+    right: 0;
+    left: 0;
+}
